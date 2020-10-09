@@ -14,6 +14,5 @@
 # 
 # Licença: GPL-3.0 <https://www.gnu.org/licenses/gpl-3.0.txt>.
 
-(
-./teste.sh
-) | zenity --title "Progress bar example" --progress --auto-kill
+(./teste.sh) | zenity --title "Progress bar example" --progress --no-cancel
+
