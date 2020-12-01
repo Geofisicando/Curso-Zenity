@@ -14,7 +14,7 @@
 # 
 # Licença: GPL-3.0 <https://www.gnu.org/licenses/gpl-3.0.txt>.
 
-FILE=$(zenity --file-selection --title="Select a File")
+FILE=$(zenity --file-selection --title="Canal Geofisicando")
 
 case $? in
          0)
