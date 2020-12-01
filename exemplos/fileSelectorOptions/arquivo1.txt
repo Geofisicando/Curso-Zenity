@@ -1,0 +1,6 @@
+Arquivo da aula de zenity: File selector.
+
+Este é um texto qualquer em um arquivo genérico
+da aula de zenity. É apenas um exemplo.
+
+Rodolfo Dirack
