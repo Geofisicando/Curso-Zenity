@@ -16,10 +16,8 @@
 
 # Utilize também as seguintes opções:
 # --hide-value para esconder o valor da escala
-# --print-partial para imprimir todos os valores selecionados e não apenas
-#                 o valor final
-VALUE=$(zenity --scale --text="Select volume." --min-value=10 \
-	--max-value=70 --step=5 --value=50)
+VALUE=$(zenity --scale --text="Select volume." \
+	--min-value=10 --max-value=70 --value=50 --hide-value)
 
 case $? in
          0)
