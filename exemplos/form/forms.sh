@@ -21,6 +21,7 @@ zenity --forms --title="Add User" \
 	--add-entry="First Name" \
 	--add-entry="Login" \
 	--add-entry="Email" \
+	--add-password="Senha" \
 	--add-calendar="Birthday" >> usuarios.csv
 
 case $? in
