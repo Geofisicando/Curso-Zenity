@@ -10,4 +10,16 @@ dentro de scripts.
 
 * Exemplos:
 
-- TODO
+- [Olá mundo, Zenity](https://github.com/Geofisicando/Curso-Zenity/tree/master/exemplos/olaMundoZenity)
+- [Message](https://github.com/Geofisicando/Curso-Zenity/tree/master/exemplos/message)
+- [Text entry]()
+- [Notification icon]()
+- [List]()
+- [Progress]()
+- [Color selector]()
+- [Calendar]()
+- [File selector]()
+- [Password]()
+- [Text info]()
+- [Scale]()
+- [Forms]()
